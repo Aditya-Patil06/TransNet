@@ -1,0 +1,28 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compiled Java files
+*.class
+
+# Build output
+out/
+target/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Local environment/configuration
+.env
+
+# Development / trial files
+trials/
+
+# Backup files
+Images/index_backup/
+Truck/index_backup/
