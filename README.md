@@ -120,3 +120,13 @@ TransNet/
 
 └── README.md
 
+## 📸 Application Screenshots & Demonstration
+
+The following documentation contains screenshots demonstrating the major
+TransNet workflows, including client management, depot management, vehicle
+management, booking creation, reporting, billing, and vehicle records.
+
+> **Note:** The data shown in the screenshots is sample/demo data used for
+> application testing and demonstration purposes.
+
+👉 [View Complete Working Snapshots (PDF)](Documentation/TransNet_Working_Snapshots.pdf)
